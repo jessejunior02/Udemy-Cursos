@@ -1,7 +1,7 @@
 const produtoOne = {};
 produtoOne.nome = "Samsung S20 Ultra"
 produtoOne.preco = 6000.00
-produtoOne['Desconto Legal'] = 0.40 //Evite atributos com espaço
+produtoOne['Desconto_Legal'] = 0.40 //Evite atributos com espaço
 
 console.log(produtoOne);
 
